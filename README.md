@@ -5,7 +5,7 @@ _aka AstroSquared_
 Part of [BedCrabDev](https://github.com/BedCrabDev), and [SquareNetwork](https://github.com/SquareNetwork).
 
 ![SquaredStudios-MC's GitHub stats](https://github-readme-stats.vercel.app/api?username=SquaredStudios-MC&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SquaredStudios-MC&langs_count=8&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SquaredStudios-MC&langs_count=8&theme=dracula&layout=compact)
 
 
 #### Tech Stack
