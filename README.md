@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm SquaredStudios-MC
+
+_aka AstroSquared_
+
+Part of [BedCrabDev](https://github.com/BedCrabDev), and [SquareNetwork](https://github.com/SquareNetwork).
+
+#### Tech Stack
+
+#### Projects
 
 <!--
 **SquaredStudios-MC/SquaredStudios-MC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
