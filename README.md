@@ -1,11 +1,9 @@
-### Hi there 👋 I'm SquaredStudios-MC
+### Hi there 👋 I'm AstroSquared
 
-_aka AstroSquared_
+Part of [BedCrabDev](https://github.com/BedCrabDev), and [BlockyTD](https://github.com/BlockyTD).
 
-Part of [BedCrabDev](https://github.com/BedCrabDev), and [SquareNetwork](https://github.com/SquareNetwork).
-
-![SquaredStudios-MC's GitHub stats](https://github-readme-stats.vercel.app/api?username=SquaredStudios-MC&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SquaredStudios-MC&langs_count=8&theme=dracula&layout=compact)
+![AstroSquared's GitHub stats](https://github-readme-stats.vercel.app/api?username=AstroSquared&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AstroSquared&langs_count=8&theme=dracula&layout=compact)
 
 
 #### Tech Stack
@@ -13,7 +11,7 @@ Part of [BedCrabDev](https://github.com/BedCrabDev), and [SquareNetwork](https:/
 #### Projects
 
 <!--
-**SquaredStudios-MC/SquaredStudios-MC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AstroSquared/AstroSquared** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
