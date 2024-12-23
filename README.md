@@ -1,4 +1,4 @@
-## Hi there 👋 I'm AstroSquared
+## Hi there 👋 I'm AstroSquared/Katie
 
 I'm a student developer who loves Java.
 
