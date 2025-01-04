@@ -1,35 +1,21 @@
-## Hi there 👋 I'm AstroSquared
+## Hello, I'm Astro² (astrosquared)
 
-I'm a student developer who loves Java.
+I'm a student developer who loves Java and HTML/CSS/JS.
 
-![AstroSquared's GitHub stats](https://github-readme-stats.vercel.app/api?username=AstroSquared&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AstroSquared&langs_count=8&theme=dracula&layout=compact)
+* I use Java frequently in backend projects (sometimes C# as well), usually to make things like discord bots and minecraft plugins/mods.
+* I also love making websites, expecially with HTML, CSS, and JavaScript/TypeScript. I've also used Blazor WASM to make websites using C#.
 
+### Projects
 
-I love programming:
+* BlazingGames (currently proprietary), a collaborative minecraft plugin adding reprogrammable javascript computers, an enchanting overhaul and many more features. I'm mostly working on computers, including a website to reprogram them.
+* [Moosic](https://github.com/AstroSquared/moosic), a music bot for discord (it plays music on request in voice channels) with simple-to-use features using the new slash commands.
+* [MCDiamondFire-Awesome](https://github.com/RedVortexDev/MCDiamondFire-Awesome), which I previously maintained, that contains a list of open-source projects that work with the the minecraft server DiamondFire.
 
-- I often code in Java
-  - I'm experienced with Discord bots via JDA
-  - I create Minecraft servers with Spigot, Paper, and Minestom
-  - Java is my favorite language
-- I also code web projects with HTML/JavaScript/CSS
-  - I used the SolidJS web framework ocasionally for these projects
-- I'm learning Rust
+Note: I do have quite a few projects that were never finished or are abandoned, so this isn't an accurate respresentation of all my work.
 
-I can always be reached via email and Matrix (both on my profile). Don't be afraid to ask for help.
+### Contact
 
+* Via email: [`astrosquared@outlook.com`](mailto:astrosquared@outlook.com) (most likely to get a response within a day)
+* Via matrix: [`@astrosquared:matrix.org`](https://matrix.to/#/@astrosquared:matrix.org) (most conveient for conversations)
 
-<!--
-**AstroSquared/AstroSquared** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to contact for any reason at any time!
